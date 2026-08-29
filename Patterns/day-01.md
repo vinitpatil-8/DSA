@@ -8,10 +8,10 @@ Always has nested loops
 
 ### Patterns Learned -
 
-- **[Pattern1](pattern1.py)**
-- **[Pattern2](pattern2.py)**
-- **[Pattern3](pattern3.py)**
-- **[Pattern4](pattern4.py)**
-- **[Pattern5](pattern5.py)**
-- **[Pattern6](pattern6.py)**
-- **[Pattern7](pattern7.py)**
+- **[Rect Star Pattern](pattern1.py)**
+- **[Triangle Star Pattern](pattern2.py)**
+- **[Triangle Number Pattern](pattern3.py)**
+- **[Triangle Number Pattern - 2](pattern4.py)**
+- **[Inverted Triangle Star Pattern](pattern5.py)**
+- **[Inverted Triangle Number Pattern](pattern6.py)**
+- **[Equi-Triangle Star Pattern](pattern7.py)**
