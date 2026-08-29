@@ -7,4 +7,4 @@ for i in range(n):
     for c in range(i):
         print(" ", end='')
           
-    print()  
+    print()   
