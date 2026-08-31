@@ -13,16 +13,18 @@ My LeetCode problem-solving journey.
 | 5 | Plus One | Easy | Math | [Solution](./Easy/plus_one.py) | 2026-08-29 |
 | 6 | Valid Palindrome | Easy | String | [Solution](./Easy/valid_palindrome.py) | 2026-08-30 |
 | 7 | Count The Digits That Divide A Number | Easy | Math | [Solution](./Easy/count_digits.py) | 2026-08-31 |
+| 8 | Count The Digits That Divide A Number | Medium | Math | [Solution](./Medium/reverse_int.py) | 2026-09-01 |
 
 ## Stats
 
 - Easy: 7
-- Medium: 0
+- Medium: 1
 - Hard: 0
-- Total: 7
+- Total: 8
 
 ## Topics Covered
 
 - Arrays
 - Hash Maps
 - String
+- Math
