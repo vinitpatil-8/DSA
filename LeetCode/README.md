@@ -15,13 +15,14 @@ My LeetCode problem-solving journey.
 | 7 | Count The Digits That Divide A Number | Easy | Math | [Solution](./Easy/count_digits.py) | 2026-08-31 |
 | 8 | Reverse Integer | Medium | Math | [Solution](./Medium/reverse_int.py) | 2026-08-31 |
 | 9 | Palindrome Number | Easy | Math | [Solution](./Easy/palindrome_number.py) | 2026-09-01 |
+| 10 | Perfect Number | Easy | Math | [Solution](./Easy/perfect_number.py) | 2026-09-02 |
 
 ## Stats
 
-- Easy: 8
+- Easy: 9
 - Medium: 1
 - Hard: 0
-- Total: 9
+- Total: 10
 
 ## Topics Covered
 
