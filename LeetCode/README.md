@@ -16,13 +16,14 @@ My LeetCode problem-solving journey.
 | 8 | Reverse Integer | Medium | Math | [Solution](./Medium/reverse_int.py) | 2026-08-31 |
 | 9 | Palindrome Number | Easy | Math | [Solution](./Easy/palindrome_number.py) | 2026-09-01 |
 | 10 | Perfect Number | Easy | Math | [Solution](./Easy/perfect_number.py) | 2026-09-02 |
+| 11 | Three Divisors | Easy | Math | [Solution](./Easy/three_divisors.py) | 2026-09-03 |
 
 ## Stats
 
-- Easy: 9
+- Easy: 10
 - Medium: 1
 - Hard: 0
-- Total: 10
+- Total: 11
 
 ## Topics Covered
 
