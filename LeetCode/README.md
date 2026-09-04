@@ -30,4 +30,4 @@ My LeetCode problem-solving journey.
 - Arrays
 - Hash Maps
 - String
-- Math
+- Math (Finding divisors, Extracting digits, etc.)
