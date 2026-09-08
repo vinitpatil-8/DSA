@@ -17,13 +17,14 @@ My LeetCode problem-solving journey.
 | 9 | Palindrome Number | Easy | Math | [Solution](./Easy/palindrome_number.py) | 2026-09-01 |
 | 10 | Perfect Number | Easy | Math | [Solution](./Easy/perfect_number.py) | 2026-09-02 |
 | 11 | Three Divisors | Easy | Math | [Solution](./Easy/three_divisors.py) | 2026-09-03 |
+| 12 | Find Greatest Common Divisor of Array | Easy | Math | [Solution](./Easy/gcd_array.py) | 2026-09-08 |
 
 ## Stats
 
-- Easy: 10
+- Easy: 11
 - Medium: 1
 - Hard: 0
-- Total: 11
+- Total: 12
 
 ## Topics Covered
 
