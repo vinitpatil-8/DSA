@@ -18,13 +18,14 @@ My LeetCode problem-solving journey.
 | 10 | Perfect Number | Easy | Math | [Solution](./Easy/perfect_number.py) | 2026-09-02 |
 | 11 | Three Divisors | Easy | Math | [Solution](./Easy/three_divisors.py) | 2026-09-03 |
 | 12 | Find Greatest Common Divisor of Array | Easy | Math | [Solution](./Easy/gcd_array.py) | 2026-09-08 |
+| 13 | Convert the Temperature | Easy | Math | [Solution](./Easy/temperature.py) | 2026-09-18 |
 
 ## Stats
 
-- Easy: 11
+- Easy: 12
 - Medium: 1
 - Hard: 0
-- Total: 12
+- Total: 13
 
 ## Topics Covered
 
