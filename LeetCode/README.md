@@ -19,13 +19,14 @@ My LeetCode problem-solving journey.
 | 11 | Three Divisors | Easy | Math | [Solution](./Easy/three_divisors.py) | 2026-09-03 |
 | 12 | Find Greatest Common Divisor of Array | Easy | Math | [Solution](./Easy/gcd_array.py) | 2026-09-08 |
 | 13 | Convert the Temperature | Easy | Math | [Solution](./Easy/temperature.py) | 2026-09-18 |
+| 14 | Reverse String | Easy | Two pointers | [Solution](./Easy/reverse_string.py) | 2026-09-20 |
 
 ## Stats
 
-- Easy: 12
+- Easy: 13
 - Medium: 1
 - Hard: 0
-- Total: 13
+- Total: 14
 
 ## Topics Covered
 
@@ -33,3 +34,4 @@ My LeetCode problem-solving journey.
 - Hash Maps
 - String
 - Math (Finding divisors, Extracting digits, etc.)
+- Two pointers
