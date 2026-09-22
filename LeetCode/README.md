@@ -20,13 +20,14 @@ My LeetCode problem-solving journey.
 | 12 | Find Greatest Common Divisor of Array | Easy | Math | [Solution](./Easy/gcd_array.py) | 2026-09-08 |
 | 13 | Convert the Temperature | Easy | Math | [Solution](./Easy/temperature.py) | 2026-09-18 |
 | 14 | Reverse String | Easy | Two pointers | [Solution](./Easy/reverse_string.py) | 2026-09-20 |
+| 15 | Defanging an IP Address | Easy | String | [Solution](./Easy/defang_ip_address.py) | 2026-09-22 |
 
 ## Stats
 
-- Easy: 13
+- Easy: 14
 - Medium: 1
 - Hard: 0
-- Total: 14
+- Total: 15
 
 ## Topics Covered
 
@@ -35,3 +36,4 @@ My LeetCode problem-solving journey.
 - String
 - Math (Finding divisors, Extracting digits, etc.)
 - Two pointers
+- String
