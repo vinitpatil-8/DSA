@@ -20,5 +20,9 @@ def reverse(i):
 reverse(0)
 print(arr1)
 
-# Check if given string is a palindrome
-print("Check if given string is a palindrome")
+# Check if given string is a palindrome - single pointer
+# print("Check if given string is a palindrome")
+# str1 = "madam"
+# def checkPalindrome(a, string):
+#     if a>=(len(str1)/2):
+#         return

@@ -21,13 +21,14 @@ My LeetCode problem-solving journey.
 | 13 | Convert the Temperature | Easy | Math | [Solution](./Easy/temperature.py) | 2026-09-18 |
 | 14 | Reverse String | Easy | Two pointers | [Solution](./Easy/reverse_string.py) | 2026-09-20 |
 | 15 | Defanging an IP Address | Easy | String | [Solution](./Easy/defang_ip_address.py) | 2026-09-22 |
+| 16 | Running Sum of 1d Array | Easy | Array | [Solution](./Easy/running_sum_1d_array.py) | 2026-09-23 |
 
 ## Stats
 
-- Easy: 14
+- Easy: 15
 - Medium: 1
 - Hard: 0
-- Total: 15
+- Total: 16
 
 ## Topics Covered
 
