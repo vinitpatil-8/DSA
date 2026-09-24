@@ -14,7 +14,7 @@ My daily journey of solving Data Structures & Algorithms problems.
 
 ## 🧠 Topics
 
-- [ ] Arrays
+- [x] Arrays
 - [ ] Strings
 - [ ] Hashing
 - [ ] Two Pointers
