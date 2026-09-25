@@ -21,8 +21,26 @@ reverse(0)
 print(arr1)
 
 # Check if given string is a palindrome - single pointer
-# print("Check if given string is a palindrome")
-# str1 = "madam"
-# def checkPalindrome(a, string):
-#     if a>=(len(str1)/2):
-#         return
+print("Check if given string is a palindrome")
+str1 = "madam"
+def checkPalindrome(a, s):
+    n = len(s)
+    if a>=(n/2):
+        print("palindrome")
+        return True
+    if s[a] != s[n-a-1]:
+        print("not palindrome")
+        return False
+    checkPalindrome(a+1, s)
+checkPalindrome(0, str1)
+
+# Fibonacci Number
+# TODO : create a whole diagram on excalidraw
+print("Fibonacci Number")
+def fibonacci(n):
+    if n<=1:
+        return n
+    last = fibonacci(n-1)
+    slast = fibonacci(n-2)
+    return last+slast
+print(fibonacci(6))

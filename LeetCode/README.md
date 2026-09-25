@@ -22,13 +22,15 @@ My LeetCode problem-solving journey.
 | 14 | Reverse String | Easy | Two pointers | [Solution](./Easy/reverse_string.py) | 2026-09-20 |
 | 15 | Defanging an IP Address | Easy | String | [Solution](./Easy/defang_ip_address.py) | 2026-09-22 |
 | 16 | Running Sum of 1d Array | Easy | Array | [Solution](./Easy/running_sum_1d_array.py) | 2026-09-23 |
+| 17 | Smallest Index With Digit Sum Equal to Index | Easy | Array | [Solution](./Easy/smallest_index_digit_sum.py) | 2026-09-24 |
+| 18 | Maximum Product of Two Digits | Easy | Sorting, Math | [Solution](./Easy/max_prod_two_digit.py) | 2026-09-25 |
 
 ## Stats
 
-- Easy: 15
+- Easy: 17
 - Medium: 1
 - Hard: 0
-- Total: 16
+- Total: 18
 
 ## Topics Covered
 
@@ -38,3 +40,4 @@ My LeetCode problem-solving journey.
 - Math (Finding divisors, Extracting digits, etc.)
 - Two pointers
 - String
+- Sorting
