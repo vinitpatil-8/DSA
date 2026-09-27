@@ -24,18 +24,19 @@ My LeetCode problem-solving journey.
 | 16 | Running Sum of 1d Array | Easy | Array | [Solution](./Easy/running_sum_1d_array.py) | 2026-09-23 |
 | 17 | Smallest Index With Digit Sum Equal to Index | Easy | Array | [Solution](./Easy/smallest_index_digit_sum.py) | 2026-09-24 |
 | 18 | Maximum Product of Two Digits | Easy | Sorting, Math | [Solution](./Easy/max_prod_two_digit.py) | 2026-09-25 |
+| 19 | Contains Duplicate | Easy | Hash Table | [Solution](./Easy/contains_duplicate.py) | 2026-09-27 |
 
 ## Stats
 
-- Easy: 17
+- Easy: 18
 - Medium: 1
 - Hard: 0
-- Total: 18
+- Total: 19
 
 ## Topics Covered
 
 - Arrays
-- Hash Maps
+- Hash Tables, Hash Maps
 - String
 - Math (Finding divisors, Extracting digits, etc.)
 - Two pointers
