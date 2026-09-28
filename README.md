@@ -6,17 +6,17 @@ My daily journey of solving Data Structures & Algorithms problems.
 
 | Metric | Progress |
 |---|---:|
-| Days Completed | 1 |
-| Problems Solved | 4 |
-| Easy | 4 |
-| Medium | 0 |
+| Days Completed | 11 |
+| Problems Solved | 19 |
+| Easy | 18 |
+| Medium | 1 |
 | Hard |  |
 
 ## 🧠 Topics
 
 - [x] Arrays
 - [ ] Strings
-- [ ] Hashing
+- [x] Hashing
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Stack
@@ -25,9 +25,3 @@ My daily journey of solving Data Structures & Algorithms problems.
 - [ ] Trees
 - [ ] Graphs
 - [ ] Dynamic Programming
-
-## 📅 Daily Progress
-
-| Day | Problems | Topics |
-|---|---|---|
-| 01 | 4 | Array, String |
