@@ -25,13 +25,15 @@ My LeetCode problem-solving journey.
 | 17 | Smallest Index With Digit Sum Equal to Index | Easy | Array | [Solution](./Easy/smallest_index_digit_sum.py) | 2026-09-24 |
 | 18 | Maximum Product of Two Digits | Easy | Sorting, Math | [Solution](./Easy/max_prod_two_digit.py) | 2026-09-25 |
 | 19 | Contains Duplicate | Easy | Hash Table | [Solution](./Easy/contains_duplicate.py) | 2026-09-27 |
+| 20 | Valid Anagram | Easy | Hash Table | [Solution](./Easy/valid_anagram.py) | 2026-09-29 |
+| 21 | First Unique Character in a String | Easy | Hash Table | [Solution](./Easy/first_uni_char.py) | 2026-09-29 |
 
 ## Stats
 
-- Easy: 18
+- Easy: 20
 - Medium: 1
 - Hard: 0
-- Total: 19
+- Total: 21
 
 ## Topics Covered
 
