@@ -27,13 +27,14 @@ My LeetCode problem-solving journey.
 | 19 | Contains Duplicate | Easy | Hash Table | [Solution](./Easy/contains_duplicate.py) | 2026-09-27 |
 | 20 | Valid Anagram | Easy | Hash Table | [Solution](./Easy/valid_anagram.py) | 2026-09-29 |
 | 21 | First Unique Character in a String | Easy | Hash Table | [Solution](./Easy/first_uni_char.py) | 2026-09-29 |
+| 22 | Number of Good Pairs | Easy | Hash Table | [Solution](./Easy/num_of_good_pairs.py) | 2026-10-02 |
 
 ## Stats
 
-- Easy: 20
+- Easy: 21
 - Medium: 1
 - Hard: 0
-- Total: 21
+- Total: 22
 
 ## Topics Covered
 
