@@ -28,13 +28,14 @@ My LeetCode problem-solving journey.
 | 20 | Valid Anagram | Easy | Hash Table | [Solution](./Easy/valid_anagram.py) | 2026-09-29 |
 | 21 | First Unique Character in a String | Easy | Hash Table | [Solution](./Easy/first_uni_char.py) | 2026-09-29 |
 | 22 | Number of Good Pairs | Easy | Hash Table | [Solution](./Easy/num_of_good_pairs.py) | 2026-10-02 |
+| 23 | Score of a string | Easy | String | [Solution](./Easy/score_of_a_string.py) | 2026-10-03 |
 
 ## Stats
 
-- Easy: 21
+- Easy: 22
 - Medium: 1
 - Hard: 0
-- Total: 22
+- Total: 23
 
 ## Topics Covered
 
