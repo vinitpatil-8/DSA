@@ -29,13 +29,15 @@ My LeetCode problem-solving journey.
 | 21 | First Unique Character in a String | Easy | Hash Table | [Solution](./Easy/first_uni_char.py) | 2026-09-29 |
 | 22 | Number of Good Pairs | Easy | Hash Table | [Solution](./Easy/num_of_good_pairs.py) | 2026-10-02 |
 | 23 | Score of a string | Easy | String | [Solution](./Easy/score_of_a_string.py) | 2026-10-03 |
+| 24 | Subtract the Product and Sum of Digits of an Integer | Easy | Math | [Solution](./Easy/subtract_product_and_sum.py) | 2026-10-06 |
+| 25 | Maximum Number of Words Found in Sentences | Easy | Array | [Solution](./Easy/max_words_in_sentence.py) | 2026-10-06 |
 
 ## Stats
 
-- Easy: 22
+- Easy: 24
 - Medium: 1
 - Hard: 0
-- Total: 23
+- Total: 25
 
 ## Topics Covered
 
