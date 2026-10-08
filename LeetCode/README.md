@@ -31,13 +31,14 @@ My LeetCode problem-solving journey.
 | 23 | Score of a string | Easy | String | [Solution](./Easy/score_of_a_string.py) | 2026-10-03 |
 | 24 | Subtract the Product and Sum of Digits of an Integer | Easy | Math | [Solution](./Easy/subtract_product_and_sum.py) | 2026-10-06 |
 | 25 | Maximum Number of Words Found in Sentences | Easy | Array | [Solution](./Easy/max_words_in_sentence.py) | 2026-10-06 |
+| 26 | Sort Colors | Easy | Sorting, Bubble sort | [Solution](./Easy/sort_colors.py) | 2026-10-08 |
 
 ## Stats
 
-- Easy: 24
+- Easy: 25
 - Medium: 1
 - Hard: 0
-- Total: 25
+- Total: 26
 
 ## Topics Covered
 
@@ -47,4 +48,4 @@ My LeetCode problem-solving journey.
 - Math (Finding divisors, Extracting digits, etc.)
 - Two pointers
 - String
-- Sorting
+- Sorting (Bubble Colors)
