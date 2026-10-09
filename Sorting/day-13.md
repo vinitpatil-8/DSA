@@ -28,3 +28,7 @@
     *Inner loop (while loop)* - Goes till **j>0 and arr[j-1]>arr[j]** (j=1) (j--)
     - worst, avg case - O(n²) <br>
     - best case - O(n) --- *While loop doesnt run*
+
+4. **Merge sort -**
+<br><br>
+    
