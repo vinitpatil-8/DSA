@@ -31,4 +31,13 @@
 
 4. **Merge sort -**
 <br><br>
+    Divide and Conquer algorithm that recursively splits the array in half, sorts each half, and merges them.
     
+    Divide - Split array at mid = (low + high) // 2 until single elements remain
+
+    Conquer - Merge two sorted halves back together using two pointers
+
+    - Worst, avg, and best case - **O(n \log n)**
+    
+    - Space complexity - **O(n)** (requires extra space for merging)
+    - Stable sorting algorithm
