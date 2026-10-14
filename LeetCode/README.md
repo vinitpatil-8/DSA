@@ -32,13 +32,14 @@ My LeetCode problem-solving journey.
 | 24 | Subtract the Product and Sum of Digits of an Integer | Easy | Math | [Solution](./Easy/subtract_product_and_sum.py) | 2026-10-06 |
 | 25 | Maximum Number of Words Found in Sentences | Easy | Array | [Solution](./Easy/max_words_in_sentence.py) | 2026-10-06 |
 | 26 | Sort Colors | Easy | Sorting, Bubble sort | [Solution](./Easy/sort_colors.py) | 2026-10-08 |
+| 27 | Majority Element | Easy | Sorting | [Solution](./Easy/majority_element.py) | 2026-10-14 |
 
 ## Stats
 
-- Easy: 25
+- Easy: 26
 - Medium: 1
 - Hard: 0
-- Total: 26
+- Total: 27
 
 ## Topics Covered
 
