@@ -33,13 +33,14 @@ My LeetCode problem-solving journey.
 | 25 | Maximum Number of Words Found in Sentences | Easy | Array | [Solution](./Easy/max_words_in_sentence.py) | 2026-10-06 |
 | 26 | Sort Colors | Easy | Sorting, Bubble sort | [Solution](./Easy/sort_colors.py) | 2026-10-08 |
 | 27 | Majority Element | Easy | Sorting | [Solution](./Easy/majority_element.py) | 2026-10-14 |
+| 28 | Missing Number | Easy | Binary Sort | [Solution](./Easy/missing_number.py) | 2026-10-15 |
 
 ## Stats
 
-- Easy: 26
+- Easy: 27
 - Medium: 1
 - Hard: 0
-- Total: 27
+- Total: 28
 
 ## Topics Covered
 
@@ -49,4 +50,4 @@ My LeetCode problem-solving journey.
 - Math (Finding divisors, Extracting digits, etc.)
 - Two pointers
 - String
-- Sorting (Bubble Colors)
+- Sorting (Bubble sort, Binary sort)
