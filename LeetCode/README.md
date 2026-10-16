@@ -34,13 +34,14 @@ My LeetCode problem-solving journey.
 | 26 | Sort Colors | Easy | Sorting, Bubble sort | [Solution](./Easy/sort_colors.py) | 2026-10-08 |
 | 27 | Majority Element | Easy | Sorting | [Solution](./Easy/majority_element.py) | 2026-10-14 |
 | 28 | Missing Number | Easy | Binary Sort | [Solution](./Easy/missing_number.py) | 2026-10-15 |
+| 29 | Remove Element | Easy | Two pointer | [Solution](./Easy/remove_element.py) | 2026-10-16 |
 
 ## Stats
 
-- Easy: 27
+- Easy: 28
 - Medium: 1
 - Hard: 0
-- Total: 28
+- Total: 29
 
 ## Topics Covered
 
