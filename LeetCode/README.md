@@ -35,13 +35,14 @@ My LeetCode problem-solving journey.
 | 27 | Majority Element | Easy | Sorting | [Solution](./Easy/majority_element.py) | 2026-10-14 |
 | 28 | Missing Number | Easy | Binary Sort | [Solution](./Easy/missing_number.py) | 2026-10-15 |
 | 29 | Remove Element | Easy | Two pointer | [Solution](./Easy/remove_element.py) | 2026-10-16 |
+| 30 | Sort an Array | Medium | Two pointer, Merge sort | [Solution](./Medium/sort_an_array.py) | 2026-10-17 |
 
 ## Stats
 
 - Easy: 28
-- Medium: 1
+- Medium: 2
 - Hard: 0
-- Total: 29
+- Total: 30
 
 ## Topics Covered
 
@@ -51,4 +52,4 @@ My LeetCode problem-solving journey.
 - Math (Finding divisors, Extracting digits, etc.)
 - Two pointers
 - String
-- Sorting (Bubble sort, Binary sort)
+- Sorting (Bubble sort, Binary sort, Merge sort)
