@@ -37,13 +37,14 @@ My LeetCode problem-solving journey.
 | 29 | Remove Element | Easy | Two pointer | [Solution](./Easy/remove_element.py) | 2026-10-16 |
 | 30 | Sort an Array | Medium | Two pointer, Merge sort | [Solution](./Medium/sort_an_array.py) | 2026-10-17 |
 | 31 | Merge Sorted Array | Easy | Two pointer, Sorting | [Solution](./Easy/merge_sorted_array.py) | 2026-10-18 |
+| 32 | Group Anagrams | Medium | Hash Table, Sorting | [Solution](./Medium/group_anagrams.py) | 2026-10-19 |
 
 ## Stats
 
 - Easy: 29
-- Medium: 2
+- Medium: 3
 - Hard: 0
-- Total: 31
+- Total: 32
 
 ## Topics Covered
 

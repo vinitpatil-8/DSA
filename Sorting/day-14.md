@@ -66,4 +66,5 @@ mergeSort(arr, low, high){
 
 ### Questions solved - 
 1. 912 Sort an array - [File](/LeetCode/Medium/sort_an_array.py)
-2. 88 Merge Sorted array - [File](/LeetCode/Easy/merge_sorted_array.py)
+2. 49 Group Anagrams - [File](/LeetCode/Medium/group_anagrams.py)
+3. 88 Merge Sorted array - [File](/LeetCode/Easy/merge_sorted_array.py)
