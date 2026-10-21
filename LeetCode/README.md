@@ -38,13 +38,20 @@ My LeetCode problem-solving journey.
 | 30 | Sort an Array | Medium | Two pointer, Merge sort | [Solution](./Medium/sort_an_array.py) | 2026-10-17 |
 | 31 | Merge Sorted Array | Easy | Two pointer, Sorting | [Solution](./Easy/merge_sorted_array.py) | 2026-10-18 |
 | 32 | Group Anagrams | Medium | Hash Table, Sorting | [Solution](./Medium/group_anagrams.py) | 2026-10-19 |
+| 33 | Final Value Of Variable After Performing Operations | Easy | Arrays | [Solution](./Easy/final_value_of_variable.py) | 2026-10-20 |
+| 34 | Jewels And Stones | Easy | Hash Map | [Solution](./Easy/jewels_and_stones.py) | 2026-10-20 |
+| 35 | Richest Customer Wealth | Easy | Array | [Solution](./Easy/richest_customer_wealth.py) | 2026-10-20 |
+| 36 | Smallest Even Multiple | Easy | Math | [Solution](./Easy/smallest_even_multiple.py) | 2026-10-20 |
+| 37 | Ransom Note | Easy | Hash Maps | [Solution](./Easy/ransom_note.py) | 2026-10-20 |
+| 38 | Best Time To Buy And Sell Stock | Easy | Arrays | [Solution](./Easy/best_time_to_buy_and_sell_stock.py) | 2026-10-21 |
+| 39 | Single Number | Easy | Bit Manipulation | [Solution](./Easy/single_number.py) | 2026-10-21 |
 
 ## Stats
 
-- Easy: 29
+- Easy: 36
 - Medium: 3
 - Hard: 0
-- Total: 32
+- Total: 39
 
 ## Topics Covered
 
@@ -55,3 +62,4 @@ My LeetCode problem-solving journey.
 - Two pointers
 - String
 - Sorting (Bubble sort, Binary sort, Merge sort)
+- Bit Manipulation
