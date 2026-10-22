@@ -45,13 +45,14 @@ My LeetCode problem-solving journey.
 | 37 | Ransom Note | Easy | Hash Maps | [Solution](./Easy/ransom_note.py) | 2026-10-20 |
 | 38 | Best Time To Buy And Sell Stock | Easy | Arrays | [Solution](./Easy/best_time_to_buy_and_sell_stock.py) | 2026-10-21 |
 | 39 | Single Number | Easy | Bit Manipulation | [Solution](./Easy/single_number.py) | 2026-10-21 |
+| 40 | Remove Duplicates from Sorted Array | Easy | Two Pointers | [Solution](./Easy/remove_duplicates_from_an_array.py) | 2026-10-22 |
 
 ## Stats
 
-- Easy: 36
+- Easy: 37
 - Medium: 3
 - Hard: 0
-- Total: 39
+- Total: 40
 
 ## Topics Covered
 
