@@ -46,13 +46,15 @@ My LeetCode problem-solving journey.
 | 38 | Best Time To Buy And Sell Stock | Easy | Arrays | [Solution](./Easy/best_time_to_buy_and_sell_stock.py) | 2026-10-21 |
 | 39 | Single Number | Easy | Bit Manipulation | [Solution](./Easy/single_number.py) | 2026-10-21 |
 | 40 | Remove Duplicates from Sorted Array | Easy | Two Pointers | [Solution](./Easy/remove_duplicates_from_an_array.py) | 2026-10-22 |
+| 41 | Intersection of Two Arrays | Easy | Two Pointers | [Solution](./Easy/intersection_of_two_arrays.py) | 2026-10-23 |
+| 42 | Can Make Arithmetic Progression From Sequence | Easy | Sorting | [Solution](./Easy/can_make_ap.py) | 2026-10-24 |
 
 ## Stats
 
-- Easy: 37
+- Easy: 39
 - Medium: 3
 - Hard: 0
-- Total: 40
+- Total: 42
 
 ## Topics Covered
 
