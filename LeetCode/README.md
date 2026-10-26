@@ -48,13 +48,14 @@ My LeetCode problem-solving journey.
 | 40 | Remove Duplicates from Sorted Array | Easy | Two Pointers | [Solution](./Easy/remove_duplicates_from_an_array.py) | 2026-10-22 |
 | 41 | Intersection of Two Arrays | Easy | Two Pointers | [Solution](./Easy/intersection_of_two_arrays.py) | 2026-10-23 |
 | 42 | Can Make Arithmetic Progression From Sequence | Easy | Sorting | [Solution](./Easy/can_make_ap.py) | 2026-10-24 |
+| 43 | Find the Index of the First Occurrence in a String | Easy | Two Pointers | [Solution](./Easy/first_occurrence_in_a_string.py) | 2026-10-26 |
 
 ## Stats
 
-- Easy: 39
+- Easy: 40
 - Medium: 3
 - Hard: 0
-- Total: 42
+- Total: 43
 
 ## Topics Covered
 
