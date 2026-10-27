@@ -49,13 +49,15 @@ My LeetCode problem-solving journey.
 | 41 | Intersection of Two Arrays | Easy | Two Pointers | [Solution](./Easy/intersection_of_two_arrays.py) | 2026-10-23 |
 | 42 | Can Make Arithmetic Progression From Sequence | Easy | Sorting | [Solution](./Easy/can_make_ap.py) | 2026-10-24 |
 | 43 | Find the Index of the First Occurrence in a String | Easy | Two Pointers | [Solution](./Easy/first_occurrence_in_a_string.py) | 2026-10-26 |
+| 44 | Search Insert Position | Easy | Math | [Solution](./Easy/search_insert_position.py) | 2026-10-27 |
+| 45 | Length Of Last Word | Easy | String | [Solution](./Easy/length_of_last_word.py) | 2026-10-27 |
 
 ## Stats
 
-- Easy: 40
+- Easy: 42
 - Medium: 3
 - Hard: 0
-- Total: 43
+- Total: 45
 
 ## Topics Covered
 
