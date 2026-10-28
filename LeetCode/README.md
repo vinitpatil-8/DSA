@@ -51,13 +51,14 @@ My LeetCode problem-solving journey.
 | 43 | Find the Index of the First Occurrence in a String | Easy | Two Pointers | [Solution](./Easy/first_occurrence_in_a_string.py) | 2026-10-26 |
 | 44 | Search Insert Position | Easy | Math | [Solution](./Easy/search_insert_position.py) | 2026-10-27 |
 | 45 | Length Of Last Word | Easy | String | [Solution](./Easy/length_of_last_word.py) | 2026-10-27 |
+| 46 | Valid Palindrome 2 | Easy | String, Two Pointers | [Solution](./Easy/valid_palindrome_2.py) | 2026-10-28 |
 
 ## Stats
 
-- Easy: 42
+- Easy: 43
 - Medium: 3
 - Hard: 0
-- Total: 45
+- Total: 46
 
 ## Topics Covered
 
