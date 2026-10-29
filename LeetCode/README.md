@@ -52,13 +52,15 @@ My LeetCode problem-solving journey.
 | 44 | Search Insert Position | Easy | Math | [Solution](./Easy/search_insert_position.py) | 2026-10-27 |
 | 45 | Length Of Last Word | Easy | String | [Solution](./Easy/length_of_last_word.py) | 2026-10-27 |
 | 46 | Valid Palindrome 2 | Easy | String, Two Pointers | [Solution](./Easy/valid_palindrome_2.py) | 2026-10-28 |
+| 47 | Add Binary | Easy | Math, Bit Manipulation | [Solution](./Easy/add_binary.py) | 2026-10-29 |
+| 48 | Longest Palindrome | Easy | Hash Table | [Solution](./Easy/longest_palindrome.py) | 2026-10-29 |
 
 ## Stats
 
-- Easy: 43
+- Easy: 45
 - Medium: 3
 - Hard: 0
-- Total: 46
+- Total: 48
 
 ## Topics Covered
 
