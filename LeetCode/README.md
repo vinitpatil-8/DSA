@@ -54,13 +54,14 @@ My LeetCode problem-solving journey.
 | 46 | Valid Palindrome 2 | Easy | String, Two Pointers | [Solution](./Easy/valid_palindrome_2.py) | 2026-10-28 |
 | 47 | Add Binary | Easy | Math, Bit Manipulation | [Solution](./Easy/add_binary.py) | 2026-10-29 |
 | 48 | Longest Palindrome | Easy | Hash Table | [Solution](./Easy/longest_palindrome.py) | 2026-10-29 |
+| 49 | First Missing Positive | Hard | Hash Table | [Solution](./Hard/first_missing_positive.py) | 2026-10-31 |
 
 ## Stats
 
 - Easy: 45
 - Medium: 3
-- Hard: 0
-- Total: 48
+- Hard: 1
+- Total: 49
 
 ## Topics Covered
 
