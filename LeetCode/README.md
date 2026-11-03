@@ -55,13 +55,17 @@ My LeetCode problem-solving journey.
 | 47 | Add Binary | Easy | Math, Bit Manipulation | [Solution](./Easy/add_binary.py) | 2026-10-29 |
 | 48 | Longest Palindrome | Easy | Hash Table | [Solution](./Easy/longest_palindrome.py) | 2026-10-29 |
 | 49 | First Missing Positive | Hard | Hash Table | [Solution](./Hard/first_missing_positive.py) | 2026-10-31 |
+| 50 | Minimum Moves To Equal Array Elements 3 | Easy | Math | [Solution](./Easy/min_moves_equal_arr_elements_3.py) | 2026-11-03 |
+| 51 | Second Largest Digit In A String | Easy | String | [Solution](./Easy/second_largest_digit_in_string.py) | 2026-11-03 |
+| 52 | Check If Array Is Sorted And Rotated | Easy | Array | [Solution](./Easy/array_sorted_rotated.py) | 2026-11-03 |
+| 53 | Max Consecutive Ones | Easy | Array | [Solution](./Easy/max_consecutive_ones.py) | 2026-11-03 |
 
 ## Stats
 
-- Easy: 45
+- Easy: 49
 - Medium: 3
 - Hard: 1
-- Total: 49
+- Total: 53
 
 ## Topics Covered
 
