@@ -59,13 +59,14 @@ My LeetCode problem-solving journey.
 | 51 | Second Largest Digit In A String | Easy | String | [Solution](./Easy/second_largest_digit_in_string.py) | 2026-11-03 |
 | 52 | Check If Array Is Sorted And Rotated | Easy | Array | [Solution](./Easy/array_sorted_rotated.py) | 2026-11-03 |
 | 53 | Max Consecutive Ones | Easy | Array | [Solution](./Easy/max_consecutive_ones.py) | 2026-11-03 |
+| 54 | Distribute Candies | Easy | Hash Table | [Solution](./Easy/distribute_candies.py) | 2026-11-04 |
 
 ## Stats
 
-- Easy: 49
+- Easy: 50
 - Medium: 3
 - Hard: 1
-- Total: 53
+- Total: 54
 
 ## Topics Covered
 
