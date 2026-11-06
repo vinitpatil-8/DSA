@@ -1,5 +1,7 @@
 #### Date - 03/11/2026
 
+[Reference File](arrays.py)
+
 # Linear Search (Pseudocode) - 
 
 ```
@@ -35,3 +37,7 @@ Problem solved - [File](/LeetCode/Easy/second_largest_digit_in_string.py)
 # Maximum Consecutive Ones -
 
 Problem solved - [File](/LeetCode/Easy/max_consecutive_ones.py)
+
+# Left Rotate an Array - 
+
+1. By 1 place - 

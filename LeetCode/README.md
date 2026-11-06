@@ -60,13 +60,15 @@ My LeetCode problem-solving journey.
 | 52 | Check If Array Is Sorted And Rotated | Easy | Array | [Solution](./Easy/array_sorted_rotated.py) | 2026-11-03 |
 | 53 | Max Consecutive Ones | Easy | Array | [Solution](./Easy/max_consecutive_ones.py) | 2026-11-03 |
 | 54 | Distribute Candies | Easy | Hash Table | [Solution](./Easy/distribute_candies.py) | 2026-11-04 |
+| 55 | Minimum Index Sum Of Two Lists | Easy | Hash Table | [Solution](./Easy2/min_index_sum_of_two_lists.py) | 2026-11-05 |
+| 56 | Keyboard Row | Easy | Hash Table, Array | [Solution](./Easy2/keyboard_row.py) | 2026-11-06 |
 
 ## Stats
 
-- Easy: 50
+- Easy: 52
 - Medium: 3
 - Hard: 1
-- Total: 54
+- Total: 56
 
 ## Topics Covered
 
