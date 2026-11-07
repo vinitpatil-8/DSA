@@ -62,13 +62,18 @@ My LeetCode problem-solving journey.
 | 54 | Distribute Candies | Easy | Hash Table | [Solution](./Easy/distribute_candies.py) | 2026-11-04 |
 | 55 | Minimum Index Sum Of Two Lists | Easy | Hash Table | [Solution](./Easy2/min_index_sum_of_two_lists.py) | 2026-11-05 |
 | 56 | Keyboard Row | Easy | Hash Table, Array | [Solution](./Easy2/keyboard_row.py) | 2026-11-06 |
+| 57 | Word Pattern | Easy | Hash Table | [Solution](./Easy2/word_pattern.py) | 2026-11-07 |
+| 58 | Rotate Array | Medium | Hash Table | [Solution](./Medium/rotate_array.py) | 2026-11-07 |
+| 59 | Count Valid Substring I | Medium | Two Pointer | [Solution](./Medium/count_valid_substring_1.py) | 2026-11-07 |
+| 60 | Count Valid Substring II | Medium | Two Pointer | [Solution](./Medium/count_valid_substring_2.py) | 2026-11-07 |
+| 61 | Repeated String Match II | Hard | Math, String | [Solution](./Hard/repeated_string_match_2.py) | 2026-11-07 |
 
 ## Stats
 
-- Easy: 52
-- Medium: 3
-- Hard: 1
-- Total: 56
+- Easy: 53
+- Medium: 6
+- Hard: 2
+- Total: 61
 
 ## Topics Covered
 

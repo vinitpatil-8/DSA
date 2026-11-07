@@ -40,4 +40,5 @@ Problem solved - [File](/LeetCode/Easy/max_consecutive_ones.py)
 
 # Left Rotate an Array - 
 
-1. By 1 place - 
+1. By 1 place 
+2. By D places 
