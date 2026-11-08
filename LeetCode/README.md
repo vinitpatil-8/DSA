@@ -67,13 +67,14 @@ My LeetCode problem-solving journey.
 | 59 | Count Valid Substring I | Medium | Two Pointer | [Solution](./Medium/count_valid_substring_1.py) | 2026-11-07 |
 | 60 | Count Valid Substring II | Medium | Two Pointer | [Solution](./Medium/count_valid_substring_2.py) | 2026-11-07 |
 | 61 | Repeated String Match II | Hard | Math, String | [Solution](./Hard/repeated_string_match_2.py) | 2026-11-07 |
+| 62 | Find Mismatched Segments Between Two Strings | Medium | Two Pointer, Array, String | [Solution](./Medium/find_mismatched_segments_betn_2_strs.py) | 2026-11-08 |
 
 ## Stats
 
 - Easy: 53
-- Medium: 6
+- Medium: 7
 - Hard: 2
-- Total: 61
+- Total: 62
 
 ## Topics Covered
 
