@@ -1,9 +1,15 @@
+# hash map approach
+class Solution:
+    def majorityElement(self, nums: list[int]) -> int:
+        hashmap = {}
+        for i in range(len(nums)):
+            hashmap[nums[i]] = hashmap.get(nums[i], 0) + 1
+            if hashmap[nums[i]] > len(nums) // 2:
+                return nums[i]
+
+
+# simple method
 class Solution:
     def majorityElement(self, nums: list[int]) -> int:
         nums.sort()
-        hash_map = {}
-        n = len(nums)
-        for i in nums:
-            hash_map[i] = hash_map.get(i, 0) + 1
-            if hash_map[i] > n/2:
-                return i
+        return nums[len(nums)//2]

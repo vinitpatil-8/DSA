@@ -68,14 +68,15 @@ My LeetCode problem-solving journey.
 | 60 | Count Valid Substring II | Medium | Two Pointer | [Solution](./Medium/count_valid_substring_2.py) | 2026-11-07 |
 | 61 | Repeated String Match II | Hard | Math, String | [Solution](./Hard/repeated_string_match_2.py) | 2026-11-07 |
 | 62 | Find Mismatched Segments Between Two Strings | Medium | Two Pointer, Array, String | [Solution](./Medium/find_mismatched_segments_betn_2_strs.py) | 2026-11-08 |
-| 63 | Move Zeroes | Easy | Two Pointer, Array | [Solution](./Easy/move_zeroes.py) | 2026-11-011 |
+| 63 | Move Zeroes | Easy | Two Pointer, Array | [Solution](./Easy/move_zeroes.py) | 2026-11-11 |
+| 64 | Remove Duplicates From Sorted Array 2 | Medium | Two Pointer, Array | [Solution](./Medium/remove_duplicates_from_sorted_array_2.py) | 2026-11-14 |
 
 ## Stats
 
 - Easy: 54
-- Medium: 7
+- Medium: 8
 - Hard: 2
-- Total: 63
+- Total: 64
 
 ## Topics Covered
 
