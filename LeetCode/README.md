@@ -70,13 +70,14 @@ My LeetCode problem-solving journey.
 | 62 | Find Mismatched Segments Between Two Strings | Medium | Two Pointer, Array, String | [Solution](./Medium/find_mismatched_segments_betn_2_strs.py) | 2026-11-08 |
 | 63 | Move Zeroes | Easy | Two Pointer, Array | [Solution](./Easy/move_zeroes.py) | 2026-11-11 |
 | 64 | Remove Duplicates From Sorted Array 2 | Medium | Two Pointer, Array | [Solution](./Medium/remove_duplicates_from_sorted_array_2.py) | 2026-11-14 |
+| 65 | Rearrange Array Elements by Sign | Medium | Two Pointer, Array | [Solution](./Medium/rearrange_array_elem_by_sign.py) | 2026-11-17 |
 
 ## Stats
 
 - Easy: 54
-- Medium: 8
+- Medium: 9
 - Hard: 2
-- Total: 64
+- Total: 65
 
 ## Topics Covered
 
