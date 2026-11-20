@@ -7,3 +7,6 @@
 ### Rearrange Array Elements by Sign - [Solutions](/LeetCode/Medium/rearrange_array_elem_by_sign.py)
 - Brute Force (2) -- O(N²) and O(N)
 - Optimal -- O(N) and O(N)
+
+### Spiral Matrix - [Solutions](/LeetCode/Medium/spiral_matrix.py)
+- Optimal --- O(NxM)

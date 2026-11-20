@@ -71,6 +71,7 @@ My LeetCode problem-solving journey.
 | 63 | Move Zeroes | Easy | Two Pointer, Array | [Solution](./Easy/move_zeroes.py) | 2026-11-11 |
 | 64 | Remove Duplicates From Sorted Array 2 | Medium | Two Pointer, Array | [Solution](./Medium/remove_duplicates_from_sorted_array_2.py) | 2026-11-14 |
 | 65 | Rearrange Array Elements by Sign | Medium | Two Pointer, Array | [Solution](./Medium/rearrange_array_elem_by_sign.py) | 2026-11-17 |
+| 66 | Spiral Matrix | Medium | Matrix, Array | [Solution](./Medium/spiral_matrix.py) | 2026-11-20 |
 
 ## Stats
 
@@ -82,6 +83,7 @@ My LeetCode problem-solving journey.
 ## Topics Covered
 
 - Arrays
+- Matrix
 - Hash Tables, Hash Maps
 - String
 - Math (Finding divisors, Extracting digits, etc.)
