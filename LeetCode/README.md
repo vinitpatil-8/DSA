@@ -72,13 +72,14 @@ My LeetCode problem-solving journey.
 | 64 | Remove Duplicates From Sorted Array 2 | Medium | Two Pointer, Array | [Solution](./Medium/remove_duplicates_from_sorted_array_2.py) | 2026-11-14 |
 | 65 | Rearrange Array Elements by Sign | Medium | Two Pointer, Array | [Solution](./Medium/rearrange_array_elem_by_sign.py) | 2026-11-17 |
 | 66 | Spiral Matrix | Medium | Matrix, Array | [Solution](./Medium/spiral_matrix.py) | 2026-11-20 |
+| 67 | Assign Umbrella On Rainy Days | Easy | Array | [Solution](./Easy2/assign_umbrella_on_rainy_days.py) | 2026-11-21 |
 
 ## Stats
 
-- Easy: 54
-- Medium: 9
+- Easy: 55
+- Medium: 10
 - Hard: 2
-- Total: 65
+- Total: 67
 
 ## Topics Covered
 
