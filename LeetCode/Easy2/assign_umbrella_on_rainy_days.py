@@ -3,8 +3,8 @@ class Solution:
         alice = 0
         bob = 0
         output = []
-        for i in range(len(rain)-1):
-            if rain[i] == 1:
+        for i in range(len(rain)):
+            if rain[i] == 1 and i<len(rain)-1:
                 if rain[i+1] == 1 and alice<=bob:
                     alice += 1
                     output.append("Alice")
@@ -12,9 +12,8 @@ class Solution:
                     bob += 1
                     output.append("Bob")
             else:
-                output.append("None")
-        if rain[-1] == 1:
-            output.append("Bob")
-        else:
-            output.append("None")
+                if rain[i] == 1:
+                    output.append("Bob")
+                else:
+                    output.append("None")
         return output

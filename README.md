@@ -6,11 +6,11 @@ My daily journey of solving Data Structures & Algorithms problems.
 
 | Metric | Progress |
 |---|---:|
-| Days Completed | 16 |
-| Problems Solved | 56 |
-| Easy | 52 |
-| Medium | 3 |
-| Hard | 1 |
+| Days Completed | 18 |
+| Problems Solved | 71 |
+| Easy | 58 |
+| Medium | 11 |
+| Hard | 2 |
 
 ## 🧠 Topics
 

@@ -73,13 +73,18 @@ My LeetCode problem-solving journey.
 | 65 | Rearrange Array Elements by Sign | Medium | Two Pointer, Array | [Solution](./Medium/rearrange_array_elem_by_sign.py) | 2026-11-17 |
 | 66 | Spiral Matrix | Medium | Matrix, Array | [Solution](./Medium/spiral_matrix.py) | 2026-11-20 |
 | 67 | Assign Umbrella On Rainy Days | Easy | Array | [Solution](./Easy2/assign_umbrella_on_rainy_days.py) | 2026-11-21 |
+| 68 | Number Of 1 Bits | Easy | Bit Manipulation | [Solution](./Easy2/number_of_1_bits.py) | 2026-11-22 |
+| 69 | Check If All A's Appears Before All B's | Easy | String | [Solution](./Easy2/all_a_all_b.py) | 2026-11-22 |
+| 70 | Count Dominant Elements | Easy | Array | [Solution](./Easy2/count_dominant_elements.py) | 2026-11-22 |
+| 71 | Minimum Cost To Make All Array Elements Equal | Medium | Array | [Solution](./Medium/min_cost_arr_elem_equal.py) | 2026-11-22 |
+| 72 | Isomorphic Strings | Easy | String | [Solution](./Easy2/isomorphic_strings.py) | 2026-11-22 |
 
 ## Stats
 
-- Easy: 55
-- Medium: 10
+- Easy: 59
+- Medium: 11
 - Hard: 2
-- Total: 67
+- Total: 72
 
 ## Topics Covered
 
