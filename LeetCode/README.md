@@ -78,13 +78,14 @@ My LeetCode problem-solving journey.
 | 70 | Count Dominant Elements | Easy | Array | [Solution](./Easy2/count_dominant_elements.py) | 2026-11-22 |
 | 71 | Minimum Cost To Make All Array Elements Equal | Medium | Array | [Solution](./Medium/min_cost_arr_elem_equal.py) | 2026-11-22 |
 | 72 | Isomorphic Strings | Easy | String | [Solution](./Easy2/isomorphic_strings.py) | 2026-11-22 |
+| 73 | Find All Numbers Disappeared In An Array | Easy | Array, Hash Table | [Solution](./Easy2/find_all_num_disappeared_in_array.py) | 2026-11-25 |
 
 ## Stats
 
-- Easy: 59
+- Easy: 60
 - Medium: 11
 - Hard: 2
-- Total: 72
+- Total: 73
 
 ## Topics Covered
 
